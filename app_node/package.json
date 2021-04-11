@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cryptojs": "^2.5.3",
+    "eccrypto": "^1.1.6",
+    "keccak256": "^1.0.2"
+  }
+}
